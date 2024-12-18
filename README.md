@@ -8,8 +8,8 @@ follow the steps to run the program:
 this should make the api run over the localhost
 
 
-as for assumption:
-**Books data format is:
+As for assumption:
+  1. Books data format is:
 {
   book_ids : {
   id : value,
@@ -18,8 +18,7 @@ as for assumption:
   genre : value
   }
 }
-**
-**Member data format is:
+  2. Member data format is:
 {
   member_ids : {
   id : value,
@@ -28,4 +27,4 @@ as for assumption:
   phone : value
   }
 }
-**
+
